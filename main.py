@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from collections import deque
 
 
-vk_token = "7d262958237ff50cab017761fc4b20d366c5e270198bec6ce1de897994d4c8c6da96eaf22844508d49699"
+vk_token = ""
 yandex_disk_folder_name = "vk_images"
 output_json_name = "data.json"
 output_logs_file = 'logs.txt'
