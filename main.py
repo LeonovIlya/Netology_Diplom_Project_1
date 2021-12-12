@@ -5,7 +5,6 @@ import os
 from dataclasses import dataclass
 from collections import deque
 
-
 vk_token = ""
 yandex_disk_folder_name = "vk_images"
 output_json_name = "data.json"
